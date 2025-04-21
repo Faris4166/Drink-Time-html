@@ -1,0 +1,26 @@
+.map-text h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1%;
+}
+
+.map-text p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+}
+
+iframe {
+    margin-left: 400px;
+}
+
+.details {
+    display: inline;
+}
+
+.map-text iframe{
+    border-radius: 40px;
+
+}

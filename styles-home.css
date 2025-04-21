@@ -1,0 +1,146 @@
+*{
+        font-family: "Prompt", sans-serif;
+        font-weight: 100;
+        font-style: normal;
+      
+        font-family: "Prompt", sans-serif;
+        font-weight: 200;
+        font-style: normal;
+      
+        font-family: "Prompt", sans-serif;
+        font-weight: 300;
+        font-style: normal;
+      
+        font-family: "Prompt", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+      
+        font-family: "Prompt", sans-serif;
+        font-weight: 500;
+        font-style: normal;
+      
+        font-family: "Prompt", sans-serif;
+        font-weight: 600;
+        font-style: normal;
+      
+        font-family: "Prompt", sans-serif;
+        font-weight: 700;
+        font-style: normal;
+      
+        font-family: "Prompt", sans-serif;
+        font-weight: 800;
+        font-style: normal;
+      
+        font-family: "Prompt", sans-serif;
+        font-weight: 900;
+        font-style: normal;
+      
+        font-family: "Prompt", sans-serif;
+        font-weight: 100;
+        font-style: italic;
+      
+        font-family: "Prompt", sans-serif;
+        font-weight: 200;
+        font-style: italic;
+      
+        font-family: "Prompt", sans-serif;
+        font-weight: 300;
+        font-style: italic;
+      
+        font-family: "Prompt", sans-serif;
+        font-weight: 400;
+        font-style: italic;
+      
+        font-family: "Prompt", sans-serif;
+        font-weight: 500;
+        font-style: italic;
+      
+        font-family: "Prompt", sans-serif;
+        font-weight: 600;
+        font-style: italic;
+      
+        font-family: "Prompt", sans-serif;
+        font-weight: 700;
+        font-style: italic;
+      
+        font-family: "Prompt", sans-serif;
+        font-weight: 800;
+        font-style: italic;
+      
+        font-family: "Prompt", sans-serif;
+        font-weight: 900;
+        font-style: italic;
+
+        position: 0;
+        margin: 0;
+        box-sizing: border-box;
+        list-style: none;
+        text-decoration: none;    
+}
+.img-1 h1 {
+        text-align: center; 
+        margin-top: -340px;
+        top: 100%;
+
+}
+.img-1 p{
+        text-align: center;
+        top: 100px;
+}
+
+.img-1 h2 {
+        text-align: center;
+        margin-top: -600px;
+}
+
+.img-1 h3{
+        text-align: center;
+}
+
+.img-1 h4{
+        text-align: center;
+        font-size: 300%;
+        margin-top: 70px;
+}
+
+
+
+.img2222 img{
+        margin-top: 20rem;
+}
+
+.thai img{
+        padding-top: 100%;
+}
+
+.PE h1{
+        margin-top: -50rem;
+        left: 100%;
+        margin-right: 50%;
+        padding: 10px;
+        animation-play-state: inherit;
+}
+
+.PE p {
+        left: 100%;
+        margin-right: 50%;
+}
+
+.img-22 img{
+        margin-top: 25rem;
+}
+
+.drink-item {
+        width: 30%;
+        text-align: center;
+        position: relative;
+        overflow: hidden;
+        border-radius: 40px;
+    }
+    .drink-item img {
+        width: 100%;
+        transition: transform 0.5s ease;
+    }
+    .drink-item:hover img {
+        transform: scale(1.1);
+    }

@@ -1,0 +1,25 @@
+.drink-category {
+    margin: 20px 0;
+}
+.drink-category h2 {
+    margin-bottom: 20px;
+}
+.drink-slider {
+    display: flex;
+    justify-content: space-between;
+}
+.drink-item {
+    width: 30%;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+    border-radius: 40px;
+}
+.drink-item img {
+    width: 100%;
+    transition: transform 0.5s ease;
+}
+.drink-item:hover img {
+    transform: scale(1.1);
+}
+
